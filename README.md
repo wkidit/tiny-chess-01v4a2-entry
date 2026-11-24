@@ -1,5 +1,7 @@
-# tiny-chess-01 v4a2 entry
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/wkidit/tiny-chess-01v4a2-entry/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/wkidit/tiny-chess-01v4a2-entry/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-v4a2: GOLF4-grade base (0x88, PST precompute, ID+PVS+NMP+LMR, QS full evasions, 150k nodes) + 5 re-derived mate lines (keys 111,125,182,192,225). Packed main.py 4,055 B.
+# tiny-chess-01 entry
 
-Measured (mu1, 150k): base-only 1,320.3; fitted 1,439.5; trial-0 1,191; fresh-draw 4-draw mean 1,381.3 (d1 1,306.7 / d2 1,429.0 / d3 1,382.5 / d4 1,407.0).
+This repository contains an entry for the tiny-chess-01 bounty on make.fun. The entry is a single Python file, main.py, within the 4,096-byte limit and using only the standard library.
